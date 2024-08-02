@@ -1,0 +1,32 @@
+#container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.section {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.section.active {
+    opacity: 1;
+    pointer-events: auto;
+    transform: none;
+}
+
+.section.out {
+    opacity: 0;
+    transform: translateX(100%);
+}

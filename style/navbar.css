@@ -1,0 +1,39 @@
+#navbar {
+    border: none;
+    margin: 0;
+    padding: 0;
+    background-color: black; 
+}
+
+#navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
+
+#navbar a::before {
+    content: '';
+    position: absolute;
+    bottom: 3px; 
+    left: 0;
+    height: 2px;
+    width: 100%; 
+    background: white;
+    transform: scaleX(0); 
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+
+
+#navbar a:hover::before {
+    transform: scaleX(1); 
+    left: 0;
+    right: 0;
+}
+
+#navbar a:not(:hover)::before {
+    transform: scaleX(0);
+}

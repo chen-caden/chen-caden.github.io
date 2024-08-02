@@ -1,0 +1,42 @@
+#contact {
+    width: 100%;
+    min-height: 100vh;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    box-sizing: border-box;
+}
+
+.contact-container {
+    width: 70%;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.contact-info p {
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+.contact-info a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.contact-info a:hover {
+    color: rgb(101, 101, 179);
+}
+
+#contact h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+}

@@ -2,7 +2,7 @@ const projects = [
     { 
         name: "LSTM Timeseries Temperature Model", 
         description: "A LSTM model built and trained on python using the tensorflow library.",
-        link: "https://youtube.com"
+        link: "https://github.com/sakufish/temperature-model"
     },
     { 
         name: "Pytris", 

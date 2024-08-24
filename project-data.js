@@ -5,7 +5,7 @@ const projects = [
         link: "https://github.com/sakufish/stock-model"
     },
     { 
-        name: "myFridge", 
+        name: "myFridge - myFridgeApp.vercel.app", 
         description: "A React web app for creating and managing personalized nutritional plans. Built with Node.js, MongoDB Atlas, and integrated with the Gemini API. Includes smart photo and upload features.",
         link: "https://github.com/chrisma71/myFridge"
     },

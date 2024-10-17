@@ -13,9 +13,9 @@ const experiences = [
     },
     {
         time: "June 2024 - Present",
-        title: "Trainer Executive",
+        title: "Vice President of Logistics",
         place: "White Oaks Debate Team",
-        description: "Judged debate rounds, provided feedback, and created and taught lesson plans to debaters of all skill level."
+        description: "Managed the logistics of 100+ club members, implementing automated solutions to debate round slating. Judged and provided feedback on debate rounds."
     },
     {
         time: "June 2023 - June 2024",

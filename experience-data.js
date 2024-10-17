@@ -3,7 +3,7 @@ const experiences = [
         time: "June 2024 - Present",
         title: "Vice President of Operations",
         place: "White Oaks DECA",
-        description: "Led a 30+ member executive team in managing operations for a 400+ member DECA chapter. Coordinated internal and external student registration and logistics with DECA Ontario and our school advisor."
+        description: "Led a 30+ member executive team in managing operations for a 500+ member DECA chapter. Coordinated internal and external student registration and logistics with DECA Ontario and our school advisor. Managed and monitored the records of 500+ students across several separate platforms, implementing automated bracketing using scripts & databases."
     },
     {
         time: "June 2024 - Present",

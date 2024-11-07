@@ -15,7 +15,7 @@ const experiences = [
         time: "June 2024 - Present",
         title: "Vice President of Logistics",
         place: "White Oaks Debate Team",
-        description: "Managed the logistics of 100+ club members, implementing automated solutions to debate round slating. Judged and provided feedback on debate rounds."
+        description: "Managed the logistics of 130+ club members, implementing automated solutions to debate round slating. Judged and provided feedback on debate rounds. Google Sheets and JavaScript."
     },
     {
         time: "June 2023 - June 2024",

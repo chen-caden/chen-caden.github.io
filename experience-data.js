@@ -4,6 +4,12 @@ const experiences = [
         title: "Vice President of Operations",
         place: "White Oaks DECA",
         description: "Led a 30+ member executive team in managing operations for a 500+ member DECA chapter. Coordinated internal and external student registration and logistics with DECA Ontario and our school advisor. Managed and monitored the records of 500+ students across several platforms, implementing automated flighting using scripts."
+    },    
+    {
+        time: "September 2024 - Present",
+        title: "Hockey Referee",
+        place: "Hockey Canada, OMHA",
+        description: "Officiated formal Hockey games across several divisions."
     },
     {
         time: "June 2024 - Present",
@@ -16,6 +22,12 @@ const experiences = [
         title: "Vice President of Logistics",
         place: "White Oaks Debate Team",
         description: "Managed the logistics of 130+ club members, implementing automated solutions to debate round slating. Judged and provided feedback on debate rounds. Google Sheets and JavaScript."
+    },
+    {
+        time: "December 2024 - Present",
+        title: "Ignition Hacks Organizer",
+        place: "Ignition Hacks",
+        description: "Part of the logistics team for one of the largest Canadian online hackathons for university and high school students."
     },
     {
         time: "June 2023 - June 2024",

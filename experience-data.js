@@ -30,19 +30,13 @@ const experiences = [
         description: "Part of the logistics team for one of the largest Canadian online hackathons for university and high school students."
     },
     {
-        time: "June 2023 - June 2024",
-        title: "VBC & SMG Executive",
-        place: "White Oaks DECA",
-        description: "Prepared, planned, and taught lesson plans to 300+ students on Google Classroom, registered 100+ competitors, doubled international qualifying teams and quadrupled international finalists."
-    },
-    {
         time: "July 2023 - Present",
         title: "Skate Instructor",
         place: "Oak Medical Education Foundation",
         description: "Taught skating to children ages 4-12, and tailored teaching style to fit each age group. Provided feedback and encouragement."
     },
     {
-        time: "???? - March 2024",
+        time: "Unknown - March 2024",
         title: "Competitive Swimmer",
         place: "Oakville Aquatic Club",
         description: "Swam a lot"

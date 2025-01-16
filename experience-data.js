@@ -15,7 +15,7 @@ const experiences = [
         time: "December 2024 - Present",
         title: "Ignition Hacks Organizer",
         place: "Ignition Hacks",
-        description: "Part of the logistics team for one of the largest Canadian online hackathons for university and high school students."
+        description: "Part of the logistics team for one of the largest Canadian hackathons for university and high school students."
     },
     {
         time: "June 2024 - Present",

@@ -10,6 +10,12 @@ const experiences = [
         title: "Hockey Referee",
         place: "Hockey Canada, OMHA",
         description: "Officiated formal Hockey games across several divisions."
+    },    
+    {
+        time: "December 2024 - Present",
+        title: "Ignition Hacks Organizer",
+        place: "Ignition Hacks",
+        description: "Part of the logistics team for one of the largest Canadian online hackathons for university and high school students."
     },
     {
         time: "June 2024 - Present",
@@ -23,12 +29,7 @@ const experiences = [
         place: "White Oaks Debate Team",
         description: "Managed the logistics of 130+ club members, implementing automated solutions to debate round slating. Judged and provided feedback on debate rounds. Google Sheets and JavaScript."
     },
-    {
-        time: "December 2024 - Present",
-        title: "Ignition Hacks Organizer",
-        place: "Ignition Hacks",
-        description: "Part of the logistics team for one of the largest Canadian online hackathons for university and high school students."
-    },
+
     {
         time: "July 2023 - Present",
         title: "Skate Instructor",
